@@ -18,4 +18,5 @@ Check Docker images.
 <br />
 ![Screenshot 2023-10-31 140839](https://github.com/warlock601/Docker-Multistage/assets/32487715/37616309-1f3c-45fd-89fd-0e1d3024bd20)
 <br />
+<br />
 Docker image with multi-stage build is almost 800 times smaller in size as compared to the one with normal build. 
